@@ -1,0 +1,20 @@
+body {
+    background-color: plum
+}
+
+#super-cool-header {
+    color: rebeccapurple;
+    font-size: 8vw;
+    background-color: palegreen;
+    border: 2px solid black;
+}
+
+.cat-on-list {
+    color:greenyellow;
+    font-size: 2vw;
+}
+
+img {
+    width: 40vw;
+    height: 20vw;
+}
